@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Binghamton University, [2019-Present]
+  * Behavioral Macro and Complexity Summer Course with Cars Hommes, Tinbergen Institute, Summer 2021
+  * Complex Systems Summer School, Santa Fe Institute, Summer 2022
+  * Graduate Workshop in Computational Social Science with John Miller and Scott Page, Santa Fe Institute, Summer 2023
+  * Advanced Graduate Workshop in Computational Social Science with John Miller and Scott Page, Santa Fe Institute, Summer 2024
+* B.A in Math and Economics, University at Buffalo [2014-2018]
 
 Work experience
 ======
@@ -31,15 +34,6 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
