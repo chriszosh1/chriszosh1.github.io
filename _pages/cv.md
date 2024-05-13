@@ -18,11 +18,32 @@ Education
   * Advanced Graduate Workshop in Computational Social Science, Santa Fe Institute, Summer 2024
 * B.A in Math and Economics, University at Buffalo, Fall 2014 - Spring 2018
 
+Working Papers
+======
+* 
+
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*
+
+Teaching
+======
+* As instructor (Ithaca College):
+  * Principles of Micro (Econ 122, 2 sections), Fall 2022
+
+* As teaching assistant (Binghamton University):
+  * Principles of Micro (Econ 160), Fall 2019 and Spring 2020
+  * Macroeconomic Theory 1 (Econ 613), Fall 2020 and Fall 2021
+  * Agent Based Policy Modelling (Econ 670), Spring 2023
+
+* As department tutor for comprehensive exam review:
+  * Microeconomic Theory 1 - Game Theory (Econ 611), Summer 2021
+  * Macroeconomics Theory 1 (Econ 613), Summer 2022
+
+* As grader (Binghamton University):
+  * Advanced Data Analysis (Econ 556), Fall 2019 and Spring 2020
+  * Economics of Immigration (Econ 483), Spring 2021
+  * Financial Economics (Econ 442), Summer 2022
   
 #Talks
 #======
@@ -30,12 +51,7 @@ Publications
 #    {% include archive-single-talk-cv.html  %}
 #  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
