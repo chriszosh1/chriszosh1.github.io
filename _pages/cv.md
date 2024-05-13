@@ -44,14 +44,3 @@ Teaching
   * Advanced Data Analysis (Econ 556), Fall 2019 and Spring 2020
   * Economics of Immigration (Econ 483), Spring 2021
   * Financial Economics (Econ 442), Summer 2022
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
