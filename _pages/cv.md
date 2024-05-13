@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, Binghamton University, Fall 2019 - Present
-  * Behavioral Macro and Complexity Summer Course, Tinbergen Institute, Summer 2021
+  * Behavioral Macro and Complexity Summer Course (with Cars Hommes), Tinbergen Institute, Summer 2021
   * Complex Systems Summer School, Santa Fe Institute, Summer 2022
-  * Graduate Workshop in Computational Social Science, Santa Fe Institute, Summer 2023
-  * Advanced Graduate Workshop in Computational Social Science, Santa Fe Institute, Summer 2024
+  * Graduate Workshop in Computational Social Science (with John Miller and Scott Page), Santa Fe Institute, Summer 2023
+  * Advanced Graduate Workshop in Computational Social Science (with John Miller and Scott Page), Santa Fe Institute, Summer 2024
 * B.A in Math and Economics, University at Buffalo, Fall 2014 - Spring 2018
 
 Working Papers
@@ -44,3 +44,7 @@ Teaching
   * Advanced Data Analysis (Econ 556), Fall 2019 and Spring 2020
   * Economics of Immigration (Econ 483), Spring 2021
   * Financial Economics (Econ 442), Summer 2022
+
+Service
+======
+* Student coordinator for the Fourth Northeast Regional Conference on Complex Systems, Binghamton University, Spring 2021
