@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Economics PhD student at Binghamton University. I study topics in Decision Theory, Game Theory,
-and Behavioral Economicswith a focus on learning models, Agent-Based simulation, and self-organizing systems.
+I'm an Economics PhD student at Binghamton University. I study topics in Decision Theory, Game Theory and Behavioral Economics with a focus on learning models, Agent-Based simulation, and self-organizing systems.
