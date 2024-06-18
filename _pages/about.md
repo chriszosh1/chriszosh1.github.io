@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 I'm an Economics PhD student at Binghamton University. I study topics in Decision Theory, Game Theory and Behavioral Economics with a focus on learning models, Agent-Based simulation, and self-organizing systems.
+
+You can find my CV [here](https://chriszosh1.github.io/files/cv.pdf).
