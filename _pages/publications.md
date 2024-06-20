@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <font size="+2"><b>Working Papers:</b><br>
-<font size="-2"><b>Generalizing K-Level Beleifs to Models of Learning</b><br>
+<b>Generalizing K-Level Beleifs to Models of Learning</b><br>
 
 <b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>
 with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
