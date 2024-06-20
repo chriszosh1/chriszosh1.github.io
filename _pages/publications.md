@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <font size="+2"><b>Working Papers:</b></font>
-<b>Meta-Learning: Generalizing K-Level Beliefs to Models of Learning</b><br>
+<b>Meta-Learning: Generalizing K-Level Beliefs to Models of Learning and Boundedly Rational Response</b><br>
 
 <b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>
 with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
