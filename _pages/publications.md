@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-<strong><font size="+2">Working Papers:</font size></strong><br>
+<font size="+2"><b>Working Papers:</b></font size><br>
 <b>Generalizing K-Level Beleifs to Models of Learning</b><br>
 
 <b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>
