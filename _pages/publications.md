@@ -20,8 +20,7 @@ with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape
 <br>
 <b>Works in Progress:</b><br>
 
-Generalizing K-Level Beliefs to Models of Learning and Boundedly Rational Response for Simulating Priors and Meta-learning<br>
-
+The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response
 
 A Guide and General Method for Estimating Parameters and their Confidence Intervals in Agent-Based Simulations with Stochasticity
 with Nency Dhameja,
