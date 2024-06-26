@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 <b>Working Papers:</b><br>
-Generalizing K-Level Beliefs to Models of Learning and Boundedly Rational Response for Simulating Priors and Meta-learning<br>
 
 Evolving Sustainable Institutions in Agent-Based Simulations with Learning
 with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
@@ -16,6 +15,13 @@ with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape
 with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
 <a href="http://bingdev.binghamton.edu/sayama/"> Hiroki Sayama</a><br>
+
+<br>
+<br>
+<b>Works in Progress:</b><br>
+
+Generalizing K-Level Beliefs to Models of Learning and Boundedly Rational Response for Simulating Priors and Meta-learning<br>
+
 
 A Guide and General Method for Estimating Parameters and their Confidence Intervals in Agent-Based Simulations with Stochasticity
 with Nency Dhameja,
