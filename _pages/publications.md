@@ -27,3 +27,7 @@ with Nency Dhameja,
 Yixin Ren, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
 
+Monitoring in Evolving Sustainable Institutions with Learning
+with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
+<a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
+<a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a><br>
