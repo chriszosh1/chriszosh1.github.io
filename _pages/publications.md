@@ -20,4 +20,4 @@ with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape
 [A Guide and General Method for Estimating Parameters and their Confidence Intervals in Agent-Based Simulations with Stochasticity](https://chriszosh1.github.io/files/AGuideAndGeneralMethodForEstimatingParametersAndTheirConfidenceIntervalsInAgentBasedSimulationWithStochasticity_Zosh_et_al.pdf)
 with Nency Dhameja,
 Yixin Ren, and
-<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
+<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a> (Draft - Incomplete)<br>
