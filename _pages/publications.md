@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <b>Working Papers:</b><br>
-The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response<br><br>
+The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response<br>
 <ins>Status:</ins> Draft (Incomplete)<br>
 
 [Evolving Sustainable Institutions in Agent-Based Simulations with Learning](https://chriszosh1.github.io/files/EvolvingSustainableInstitutions_Zosh_et_al.pdf)
