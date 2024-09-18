@@ -15,3 +15,6 @@ author_profile: true
 <b>As Department Hired Tutor:</b><br>
 <a href="https://catalog.binghamton.edu/preview_course_nopop.php?catoid=2&coid=17412">Microeconomic Theory I (Game Theory) Comprehensive Exam Review</a> [PhD], Su2021 at Binghamton University<br>
 <a href="https://catalog.binghamton.edu/preview_course_nopop.php?catoid=2&coid=17414">Macroeconomic Theory I Comprehensive Exam Review</a> [PhD], Su2022 at Binghamton University<br>
+
+<br>
+Summarized student evaluations have been made available [here] (https://chriszosh1.github.io/files/StudentEvaluations_ChrisZosh.pdf)
