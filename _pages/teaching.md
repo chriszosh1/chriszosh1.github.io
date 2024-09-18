@@ -17,4 +17,4 @@ author_profile: true
 <a href="https://catalog.binghamton.edu/preview_course_nopop.php?catoid=2&coid=17414">Macroeconomic Theory I Comprehensive Exam Review</a> [PhD], Su2022 at Binghamton University<br>
 
 <br>
-Summarized student evaluations have been made available [here] (https://chriszosh1.github.io/files/StudentEvaluations_ChrisZosh.pdf)
+Summarized student evaluations have been made available [here](https://chriszosh1.github.io/files/StudentEvaluations_ChrisZosh.pdf)
