@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-##Working Papers:<br>
+<h3>Working Papers:</h3><br>
 <b>The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response</b><br>
 <ins>Status:</ins> Draft (Incomplete)<br>
 
