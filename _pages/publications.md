@@ -27,4 +27,4 @@ Yixin Ren, and
 <ins>Status:</ins> Draft (Incomplete)<br>
 
 <h2>Other:</h2>
-My research statement can be found [here](https://chriszosh1.github.io/files/Research_Statement_ChrisZosh.pdf)
+My <b>Research Statement</b> can be found [here](https://chriszosh1.github.io/files/Research_Statement_ChrisZosh.pdf)

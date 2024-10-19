@@ -18,5 +18,5 @@ author_profile: true
 <a href="https://catalog.binghamton.edu/preview_course_nopop.php?catoid=2&coid=17414"><b>Macroeconomic Theory I Comprehensive Exam Review</b></a> [PhD], Su2022 at Binghamton University
 
 <h2>Other:</h2>
-My teaching statement can be found [here](https://chriszosh1.github.io/files/Teaching_Statement_ChrisZosh.pdf)<br>
-Student evaluations are also available [here](https://chriszosh1.github.io/files/StudentEvaluations_ChrisZosh.pdf)
+My <b>Teaching Statement</b> can be found [here](https://chriszosh1.github.io/files/Teaching_Statement_ChrisZosh.pdf)<br>
+<b>Student Evaluations</b> are also available [here](https://chriszosh1.github.io/files/StudentEvaluations_ChrisZosh.pdf)
