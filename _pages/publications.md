@@ -25,3 +25,6 @@ author_profile: true
 Yixin Ren, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a> <br>
 <ins>Status:</ins> Draft (Incomplete)<br>
+
+<h2>Other:</h2>
+My research statement can be found [here](https://chriszosh1.github.io/files/Research_Statement_ChrisZosh.pdf)
