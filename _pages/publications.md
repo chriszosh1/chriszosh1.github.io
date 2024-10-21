@@ -5,9 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 <h2>Working Papers:</h2>
-<b>The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response</b><br>
-<ins>Status:</ins> Draft (Incomplete)<br>
-
 [<b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>](https://chriszosh1.github.io/files/EvolvingSustainableInstitutions_Zosh_et_al.pdf)
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
@@ -24,6 +21,9 @@ author_profile: true
 <br>with Nency Dhameja,
 Yixin Ren, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a> <br>
+<ins>Status:</ins> Draft (Incomplete)<br>
+
+<b>The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response</b><br>
 <ins>Status:</ins> Draft (Incomplete)<br>
 
 <h2>Other:</h2>
