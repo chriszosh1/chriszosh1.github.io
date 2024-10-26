@@ -10,6 +10,7 @@ author_profile: true
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
 In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)<br>
+<details><summary>TestingTesting</summary>
 
 <a href="https://arxiv.org/abs/2406.10369"> <b>On the Preservation of Input/Output Directed Graph Informativeness under Crossover</b></a>
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
