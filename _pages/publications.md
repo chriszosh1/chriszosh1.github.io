@@ -9,7 +9,7 @@ author_profile: true
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
-In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)<br>
+In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)
 <details><summary>Abstract:</summary>
 
 Test 1
@@ -20,7 +20,7 @@ Test 1
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
 <a href="http://bingdev.binghamton.edu/sayama/"> Hiroki Sayama</a> <br>
-Under review at [Evolutionary Computation](https://direct.mit.edu/evco)<br>
+Under review at [Evolutionary Computation](https://direct.mit.edu/evco)
 <details><summary>Abstract:</summary>
 
 Test 2
@@ -31,7 +31,7 @@ Test 2
 [<b>A Guide and General Method for Estimating Parameters and their Confidence Intervals in Agent-Based Simulations with Stochasticity</b>](https://chriszosh1.github.io/files/AGuideAndGeneralMethodForEstimatingParametersAndTheirConfidenceIntervalsInAgentBasedSimulationWithStochasticity_Zosh_et_al.pdf)
 <br>with Nency Dhameja,
 Yixin Ren, and
-<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a> <br>
+<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>
 <details><summary>Abstract:</summary>
 
 Test 3
@@ -39,7 +39,7 @@ Test 3
 </details>
 
 
-<b>The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response</b><br>
+<b>The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response</b>
 <details><summary>Abstract:</summary>
 
 Test 4
