@@ -4,20 +4,15 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-<style>
-br.big {display:block; content:""; margin-top:0.5em; line-height:50%; vertical-align:top;}
-</style>
 
 <h2>Working Papers:</h2>
 [<b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>](https://chriszosh1.github.io/files/EvolvingSustainableInstitutions_Zosh_et_al.pdf)
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
-In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)<br class=big>
-<details><summary>Abstract:</summary> 
-
-Test 1 Still
-
+In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)
+<details style="margin-top: 0px;"><summary>Abstract:</summary>
+    Test 1 again
 </details>
 
 <a href="https://arxiv.org/abs/2406.10369"> <b>On the Preservation of Input/Output Directed Graph Informativeness under Crossover</b></a>
