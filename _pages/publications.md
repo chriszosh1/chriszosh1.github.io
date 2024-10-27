@@ -11,7 +11,7 @@ author_profile: true
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
 In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)
-<details style="margin-top: 0px;">
+<details style=""margin-top: 0px; padding-top: 0px;""> <summary>Abstract</summary>
     Test 1 no summary
 </details>
 
