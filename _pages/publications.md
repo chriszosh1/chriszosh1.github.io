@@ -4,13 +4,17 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+<style>
+br.big {display:block; content:""; margin-top:0.5em; line-height:500%; vertical-align:top;}
+</style>
+
 <h2>Working Papers:</h2>
 [<b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>](https://chriszosh1.github.io/files/EvolvingSustainableInstitutions_Zosh_et_al.pdf)
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
-In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)
-<details><summary>Abstract:</summary>
+In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)<br class=big>
+<details><summary>Abstract:</summary> 
 
 Test 1
 
@@ -20,7 +24,7 @@ Test 1
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
 <a href="http://bingdev.binghamton.edu/sayama/"> Hiroki Sayama</a> <br>
-Under review at [Evolutionary Computation](https://direct.mit.edu/evco)
+Under review at [Evolutionary Computation](https://direct.mit.edu/evco) <br>
 <details><summary>Abstract:</summary>
 
 Test 2
