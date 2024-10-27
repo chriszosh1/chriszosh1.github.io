@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <style>
-br.big {display:block; content:""; margin-top:0.5em; line-height:500%; vertical-align:top;}
+br.big {display:block; content:""; margin-top:0.5em; line-height:50%; vertical-align:top;}
 </style>
 
 <h2>Working Papers:</h2>
@@ -16,7 +16,7 @@ br.big {display:block; content:""; margin-top:0.5em; line-height:500%; vertical-
 In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)<br class=big>
 <details><summary>Abstract:</summary> 
 
-Test 1
+Test 1 Still
 
 </details>
 
