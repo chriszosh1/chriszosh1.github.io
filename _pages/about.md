@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Economics PhD canidate at Binghamton University (SUNY) currently on the job market (F2024 - S2025).<br>
+My Ph.D. is in Economics from Binghamton University and will be completed this spring (2025).
 
-I study topics in Decision Theory, Game Theory, and Behavioral Economics, with a focus on the use of multi-agent simulation to investigate the often delicate relationships between how agents make decisions, how they interact with each other, and various model outcomes. I also make use of a variety of learning algorithms and stochastic optimization processes which can serve both as simple boundedly rational decision making processes and as fairly robust methods for optimization.<br>
+I study topics in Game Theory broadly, but my primary focus is developing and exploring applications of computational models, often of learning, non-trivially interacting agents. Such models can extend both traditional theoretical models and can serve as structural models for direct estimation.
 
 You can find my <b>CV</b> [here](https://chriszosh1.github.io/files/CV_ChrisZosh.pdf).
