@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <h2>Research Areas:</h2>
-Game Theory, Computational Modeling, Learning, and Optimization
+Game Theory, Computational Modeling, Optimization, and Learning
 
 <h2>Research Papers:</h2>
 <b>Job Market Paper:</b><br>
