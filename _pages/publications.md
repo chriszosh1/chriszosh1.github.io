@@ -52,5 +52,5 @@ We also define informativeness, which characterizes the degree to which there ex
 While there is an extensive history of bringing decision theories with learning to lab data, such models have been encumbered by the problem of "empty-headedness", which is derived from the common assumption in learning models that agents have no information to go on before the first round of play. To solve this problem, I utilize a method of <em>simulated self-play</em> to generate priors using the features of the game themselves which can be applied to a large class of boundedly rational decision making processes with and without learning. Next, I demonstrate that k-level reasoning exists as a very specific case of this process which utilizes a rational "best response" function and batched updating. Finally, I compare the empirical performance (out of sample prediction) of two common learning models with and without simulated priors as well as K-level reasoning, utilizing lab data of players playing different versions of the Beauty Contest Game.
 </details>
 
-<h2>Supporting Documents</h2>
-[<b>Research Statement</b>](https://chriszosh1.github.io/files/Research_Statement_ChrisZosh.pdf)
+<h2>Supporting Documents:</h2>
+My <b>Research Statement</b> can be found [here](https://chriszosh1.github.io/files/Research_Statement_ChrisZosh.pdf)
