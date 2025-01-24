@@ -4,8 +4,11 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+<h2>Research Areas:</h2>
+Game Theory, Computational Modeling, Optimization, Learning, and Behavioral Economics
 
-<h2>Job Market Paper:</h2>
+<h2>Research Papers:</h2>
+<b>Job Market Paper:</b><br>
 [<b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>](https://chriszosh1.github.io/files/EvolvingSustainableInstitutions_Zosh_et_al.pdf)
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
@@ -17,7 +20,7 @@ In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-
     First, we find that graduated sanctions emerge top-down via a social planner who utilizes a fine-based policy without redistribution, but only when agents utilize similarity in their decision-making process. Next, we find that, when policy makers are able to redistribute fines, draconian style sanctions emerge. We also demonstrate that implementing the theoretical solution for rational agents who fully understand the game can forgo substantial potential gains in social welfare. Finally, we observe that, when agents participate in "democracy" (a bottom-up policy selection mechanism via voting for representatives) they are able to solve the commons problem fairly well, though we do not observe graduated sanction emerge in this context.
 </details>
 
-<h2>Working Papers:</h2>
+<b>Working Papers:</b><br>
 [<b>A Guide and General Method for Estimating Parameters and their Confidence Intervals in Agent-Based Simulations with Stochasticity</b>](https://chriszosh1.github.io/files/AGuideAndGeneralMethodForEstimatingParametersAndTheirConfidenceIntervalsInAgentBasedSimulationWithStochasticity_Zosh_et_al.pdf)
 <br>with Nency Dhameja,
 Yixin Ren, and
@@ -43,7 +46,7 @@ We also define informativeness, which characterizes the degree to which there ex
 
 </details>
 
-<h2>Selected Works in Progress:</h2>
+<b>Selected Works in Progress:</b><br>
 <b>The Problem with Empty-Headedness: Generalizing K-Level Beliefs to Simulate Priors in Models of Learning and Boundedly Rational Response</b>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 While there is an extensive history of bringing decision theories with learning to lab data, such models have been encumbered by the problem of "empty-headedness", which is derived from the common assumption in learning models that agents have no information to go on before the first round of play. To solve this problem, I utilize a method of <em>simulated self-play</em> to generate priors using the features of the game themselves which can be applied to a large class of boundedly rational decision making processes with and without learning. Next, I demonstrate that k-level reasoning exists as a very specific case of this process which utilizes a rational "best response" function and batched updating. Finally, I compare the empirical performance (out of sample prediction) of two common learning models with and without simulated priors as well as K-level reasoning, utilizing lab data of players playing different versions of the Beauty Contest Game.
