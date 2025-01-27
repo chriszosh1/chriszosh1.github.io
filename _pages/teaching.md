@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 <h2>Teaching Areas:</h2>
-Game Theory (any level), Microeconomic Theory (any level), and an interest course on Computational Modeling using Python.
+Game Theory (any level), Microeconomic Theory (any level), and an interest course on Computational Modeling using Python (M/PhD).
 
 <h2>Teaching Experience:</h2>
 <b>As Instructor:</b><br>
