@@ -12,7 +12,8 @@ Micro Theory, Game Theory, Computational Modeling, Organization & Behavior, Lear
 [<b>Agent-Based Econometrics: A Guide and General Method for Estimating Parameters and their Confidence Intervals in Agent-Based Simulations with Stochasticity</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_Zosh_et_al.pdf)
 <br>with Nency Dhameja,
 Yixin Ren, and
-<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>
+<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
+Under review at [JASSS](https://www.jasss.org/admin/about.html)<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 Although many Agent-Based Models (ABMs) traditionally serve to demonstrate proof-of-principle-type findings, it is becoming increasingly common and desirable for such models to be used directly for estimation in many disciplines. Given this, the need for a structured discussion on accessible and econometrically sound methods to estimate these models is of great importance.
 
