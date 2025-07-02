@@ -31,7 +31,6 @@ First, we find that graduated sanctions emerge top-down via a social planner who
 <br>with Nency Dhameja,
 Yixin Ren, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
-Under review at [JASSS](https://www.jasss.org/admin/about.html)<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 Agent-based models (ABMs) are increasingly used for formal estimation and inference, but their complexity and algorithmic nature pose persistent challenges for the formal assessment of estimator properties.
 
@@ -44,7 +43,6 @@ We apply these techniques to two example applications: first, a repeated prisone
 <br>with Nency Dhameja,
 Yixin Ren, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
-Under review at [JASSS](https://www.jasss.org/admin/about.html)<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 Although many Agent-Based Models (ABMs) traditionally serve to demonstrate proof-of-principle-type findings, it is becoming increasingly common and desirable for such models to be used directly for estimation in many disciplines. Given this, the need for a structured discussion on accessible and econometrically sound methods to estimate these models is of great importance.
 
