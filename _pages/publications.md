@@ -5,19 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 <h2>Research Areas:</h2>
-Micro Theory, Game Theory, Computational Modeling, Organization & Behavior, Learning Models
+Computational Modeling, Behavioral Economics, Game Theory, Microeconomic Theory, Complex Systems, Learning Models and Optimization
 
 <h2>Research Papers:</h2>
 <b>Job Market Paper:</b><br>
-[<b>Agent-Based Econometrics: A Guide and General Method for Estimating Parameters and their Confidence Intervals in Agent-Based Simulations with Stochasticity</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_Zosh_et_al.pdf)
-<br>with Nency Dhameja,
-Yixin Ren, and
-<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
-Under review at [JASSS](https://www.jasss.org/admin/about.html)<br>
+[<b>A Case for Simulated Self-Play in Decision Models with Learning</b>](https://chriszosh1.github.io/files/A_Case_for_Simulated_Self_Play_ChrisZosh.pdf)
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
-Although many Agent-Based Models (ABMs) traditionally serve to demonstrate proof-of-principle-type findings, it is becoming increasingly common and desirable for such models to be used directly for estimation in many disciplines. Given this, the need for a structured discussion on accessible and econometrically sound methods to estimate these models is of great importance.
-
-Taking the view that ABMs are in many ways analogous to structural equation models, we detail a practical and fairly generalizable approach for bringing nearly any agent-based model to panel data in a manner akin to structural regression. We structure this paper with the aim of being an accessible guide for unfamiliar analysts to pick up and use, covering estimating best-fitting parameters via Simulated Method of Moments (including summarizing and aggregating model output, establishing a fitness function, and choosing an optimization technique), estimating critical values using block-bootstrapping (including how to interpret confidence intervals and hypothesis testing in this context), and using Monte Carlo simulations to establish a number of properties, including whether model parameters are well identified. We also introduce a novel test to distinguish between different sources of estimate imprecision which arise when estimating ABMs. We conclude with an example application in which we bring an ABM of learning agents playing a game to existing lab data to estimate agent learning parameters.
+While there is an extensive history of bringing decision theories with learning to lab data, such models have been plagued with inadequate assumptions about the information players know before the first round of play. To solve this problem, I discuss the notion of Simulated Self-Play (SSP), in which agents play simulated rounds of the game against themselves to develop intuition about the nature of the game before the first round of play. Although some existing models of artificial intelligence have utilized self-play to achieve high performing solutions to some fairly complex problems (e.g. Alpha Zero playing Chess and Go), its exploration as a cognitive parameter when modeling human behavior has been relatively unexplored. First, I make the case that SSP improves theoretical coherence by discussing a number of common alternative assumptions (uniform / no priors, fitted priors, and burned-in priors), some of their a priori issues, and how Simulated Self-Play addresses many of them in a parsimonious way. Next, I evaluate the empirical value of SSP by implementing a simple learning model using priors formed via SSP and the alternatives and then compare their performance at predicting out-of-sample play in variations of the Beauty Contest game. I find that Simulated Self-Play performs as well or better than all of the aforementioned alternatives.
 </details>
 
 <b>Working Papers:</b><br>
@@ -33,6 +27,31 @@ Elinor Ostrom identified eight design principles for the management of common-po
 First, we find that graduated sanctions emerge top-down via a social planner who utilizes a fine-based policy without redistribution, but only when agents utilize similarity in their decision-making process. Next, we find that, when policy makers are able to redistribute fines, draconian style sanctions emerge. We also demonstrate that implementing the theoretical solution for rational agents who fully understand the game can forgo substantial potential gains in social welfare. Finally, we observe that, when agents participate in "democracy" (a bottom-up policy selection mechanism via voting for representatives) they are able to solve the commons problem fairly well, though we do not observe graduated sanction emerge in this context.
 </details>
 
+[<b>Monte-Carlo Tests for Identification of Stochastic Agent-Based Models</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_MC_Zosh_et_al.pdf)
+<br>with Nency Dhameja,
+Yixin Ren, and
+<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
+Under review at [JASSS](https://www.jasss.org/admin/about.html)<br>
+<details style="margin-top: -22px;"><summary>Abstract:</summary>
+Agent-based models (ABMs) are increasingly used for formal estimation and inference, but their complexity and algorithmic nature pose persistent challenges for the formal assessment of estimator properties.
+
+This paper highlights the indispensable role that Monte Carlo simulations (MCS) can play in addressing these challenges. We show that MCS can systematically evaluate whether parameters of an ABM can be reliably estimated, as well as how estimate accuracy and precision depend on factors such as search algorithm choice and the number of model runs conducted. We also introduce a novel Monte Carlo test that disentangles imprecision due to the stochasticity of the model and estimation process itself versus that sourced by sampling variation.
+
+We apply these techniques to two example applications: first, a repeated prisoner's dilemma model with learning agents and second, a model of information diffusion over a network. Our results demonstrate that, while the parameters of these models can be identified in principle, estimator performance can be highly sensitive to choice of hyper-parameters used in the estimation process and to features of the model itself. These findings underscore the practical importance of applying MCS-based diagnostics before drawing substantive conclusions from estimated ABM parameters.
+</details>
+
+[<b>A Guide for Estimating Agent-Based Model Parameters, their Confidence Intervals, and Establishing Estimator Properties using AgentCarlo</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_SP_Zosh_et_al.pdf)
+<br>with Nency Dhameja,
+Yixin Ren, and
+<a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
+Under review at [JASSS](https://www.jasss.org/admin/about.html)<br>
+<details style="margin-top: -22px;"><summary>Abstract:</summary>
+Although many Agent-Based Models (ABMs) traditionally serve to demonstrate proof-of-principle-type findings, it is becoming increasingly common and desirable for such models to be used directly for estimation in many disciplines. Given this, the need for a structured discussion on accessible and econometrically sound methods to estimate these models is of great importance.
+
+Taking the view that ABMs are in many ways analogous to structural equation models, we detail a practical and fairly generalizable approach for bringing nearly any agent-based model to panel data in a manner akin to structural regression. We structure this paper with the aim of being an accessible guide for unfamiliar analysts to pick up and use, covering estimating best-fitting parameters via Simulated Method of Moments (including summarizing and aggregating model output, establishing a fitness function, and choosing an optimization technique), estimating critical values using block-bootstrapping (including how to interpret confidence intervals and hypothesis testing in this context), and using Monte Carlo simulations to establish a number of properties, including whether model parameters are well identified. We also introduce a novel test to distinguish between different sources of estimate imprecision which arise when estimating ABMs. We conclude with an example application in which we bring an ABM of learning agents playing a game to existing lab data to estimate agent learning parameters.
+</details>
+
+
 <a href="https://arxiv.org/abs/2406.10369"> <b>On the Preservation of Input/Output Directed Graph Informativeness under Crossover</b></a>
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
@@ -45,7 +64,3 @@ We define a crossover operation on IOD Graphs in which we find subgraphs with ma
 </details>
 
 <b>Selected Works in Progress:</b><br>
-[<b>A Case for Simulated Self-Play in Decision Models with Learning</b>](https://chriszosh1.github.io/files/A_Case_for_Simulated_Self_Play_ChrisZosh.pdf)
-<details style="margin-top: -22px;"><summary>Abstract:</summary>
-While there is an extensive history of bringing decision theories with learning to lab data, such models have been plagued with inadequate assumptions about the information players know before the first round of play. To solve this problem, I discuss the notion of Simulated Self-Play (SSP), in which agents play simulated rounds of the game against themselves to develop intuition about the nature of the game before the first round of play. Although some existing models of artificial intelligence have utilized self-play to achieve high performing solutions to some fairly complex problems (e.g. Alpha Zero playing Chess and Go), its exploration as a cognitive parameter when modeling human behavior has been relatively unexplored. First, I make the case that SSP improves theoretical coherence by discussing a number of common alternative assumptions (uniform / no priors, fitted priors, and burned-in priors), some of their a priori issues, and how Simulated Self-Play addresses many of them in a parsimonious way. Next, I evaluate the empirical value of SSP by implementing a simple learning model using priors formed via SSP and the alternatives and then compare their performance at predicting out-of-sample play in variations of the Beauty Contest game. I find that Simulated Self-Play performs as well or better than all of the aforementioned alternatives.
-</details>

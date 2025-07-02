@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-My Ph.D. is in Economics from Binghamton University and will be completed this spring (2025).
-
-I'm a Micro Economist studying topics in Game Theory and Behavioral Economics broadly, with a primary focus on exploring applications of computational models with agents which learn and interact.
+I earned my Ph.D. in Economics from Binghamton University in Spring 2025. My research lies at the intersection of Game Theory and Behavioral Economics, with a primary focus on agent-based computational models involving learning and strategic interaction.
 
 You can find my <b>CV</b> [here](https://chriszosh1.github.io/files/CV_ChrisZosh.pdf).
