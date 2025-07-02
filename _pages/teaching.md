@@ -22,3 +22,4 @@ Microeconomic Theory (all levels), Principles of Macroeconomics (undergraduate),
 
 <h2>Supporting Documents:</h2>
 My <b>Teaching Evaluations</b> can be found [here](https://chriszosh1.github.io/files/StudentEvaluations_ChrisZosh.pdf).
+My <b>Teaching Statement</b> can be found [here](https://chriszosh1.github.io/files/Teaching_Statement_ChrisZosh.pdf).
