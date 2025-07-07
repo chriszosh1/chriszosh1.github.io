@@ -20,7 +20,7 @@ While there is an extensive history of bringing decision theories with learning 
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
-In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)<br>
+*In revise & resubmit at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization)*<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 Elinor Ostrom identified eight design principles for the management of common-pool resources across hundreds of case studies. We develop a novel computational model in which learning agents intentionally explore the action space in a common resource game under different policy regimes to test the conditions in which one of Ostrom's design principles, graduated sanctions, emerges. We characterize the long-run policies that emerge top-down via a computational social planner and bottom-up via democracy, modeled as an endogenous self-governance process. 
     
@@ -54,7 +54,7 @@ Taking the view that ABMs are in many ways analogous to structural equation mode
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
 <a href="http://bingdev.binghamton.edu/sayama/"> Hiroki Sayama</a> <br>
-Under review at [Complexity](https://onlinelibrary.wiley.com/page/journal/8503/homepage/productinformation.html)<br>
+*Under review at [Complexity](https://onlinelibrary.wiley.com/page/journal/8503/homepage/productinformation.html)*<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 There exists a broad class of networks that connect inputs to outputs. These networks include chemical transformation networks, electrical circuits, municipal water systems, and neural networks. The goals of this paper are to provide a theoretical foundation for evolutionary crossover on this class of graphs and connect crossover to informativeness, a measure of the connectedness of inputs to outputs. Informativeness is defined as: a partially informative graph has at least one path from an input to some output, a very informative graph has a path from every input to some output, and a fully informative graph has a path from every input to every output. If a neural network with non-zero weights and any number of layers is fully informative. As links are removed (assigned zero weight), it may become very, partially, or not informative. (The complement of informativeness is actionability, which is a measure of how connected outputs are from inputs.)
 
