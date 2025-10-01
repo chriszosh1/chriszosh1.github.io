@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <h2>Research Areas:</h2>
-Computational Modeling, Behavioral Economics, Game Theory, Microeconomic Theory, Complex Systems, Learning Models and Optimization
+Computational Modeling, Behavioral Game Theory, Microeconomic Theory, Complex Systems, Learning Models and Optimization
 
 <h2>Research Papers:</h2>
 <b>Job Market Paper:</b><br>
@@ -62,6 +62,3 @@ Although many Agent-Based Models (ABMs) traditionally serve to demonstrate proof
 
 Taking the view that ABMs are in many ways analogous to structural equation models, we detail a practical and fairly generalizable approach for bringing nearly any agent-based model to panel data in a manner akin to structural regression. We structure this paper with the aim of being an accessible guide for unfamiliar analysts to pick up and use, covering estimating best-fitting parameters via Simulated Method of Moments (including summarizing and aggregating model output, establishing a fitness function, and choosing an optimization technique), estimating critical values using block-bootstrapping (including how to interpret confidence intervals and hypothesis testing in this context), and using Monte Carlo simulations to establish a number of properties, including whether model parameters are well identified. We also introduce a novel test to distinguish between different sources of estimate imprecision which arise when estimating ABMs. We conclude with an example application in which we bring an ABM of learning agents playing a game to existing lab data to estimate agent learning parameters.
 </details>
-
-
-<b>Selected Works in Progress:</b><br>
