@@ -10,16 +10,16 @@ Computational Modeling, Behavioral Game Theory, Microeconomic Theory, Complex Sy
 <h2>Research Papers:</h2>
 <b>Job Market Paper:</b><br>
 
-[<b>Monte-Carlo Tests for Identification of Stochastic Agent-Based Models</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_MC_Zosh_et_al.pdf)
+[<b>Monte-Carlo Tests for Identification and Validation of Stochastic Agent-Based Models</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_MC_Zosh_et_al.pdf)
 <br>with Nency Dhameja,
 Yixin Ren, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 Agent-based models (ABMs) are increasingly used for formal estimation and inference, but their complexity and algorithmic nature pose persistent challenges for the formal assessment of estimator properties.
 
-This paper highlights the indispensable role that Monte Carlo simulations (MCS) can play in addressing these challenges. We show that MCS can systematically evaluate whether parameters of an ABM can be reliably estimated, as well as how estimate accuracy and precision depend on factors such as search algorithm choice and the number of model runs conducted. We also introduce a novel Monte Carlo test that disentangles imprecision due to the stochasticity of the model and estimation process itself versus that sourced by sampling variation.
+This paper highlights the indispensable role that Monte Carlo simulations (MCS) can play in addressing these challenges. We show that MCS can systematically evaluate whether parameters of an ABM can be reliably estimated, how estimate accuracy and precision depend on factors such as search algorithm choice and the number of model runs conducted, and can even speak to model validity in some cases. We also introduce a novel Monte Carlo test that disentangles imprecision due to the stochasticity of the model and estimation process itself versus that sourced by sampling variation.
 
-We apply these techniques to two example applications: first, a repeated prisoner's dilemma model with learning agents and second, a model of information diffusion over a network. Our results demonstrate that, while the parameters of these models can be identified in principle, estimator performance can be highly sensitive to choice of hyper-parameters used in the estimation process and to features of the model itself. These findings underscore the practical importance of applying MCS-based diagnostics before drawing substantive conclusions from estimated ABM parameters.
+We apply these techniques to two example applications: first, a repeated prisoner's dilemma model with learning agents and second, a model of information diffusion over a network. Our results demonstrate that, while the parameters of these models can be identified in principle, estimator performance can be highly sensitive to choice of fitness function, search method used in the estimation process, and to features of the model itself, so establishing if a particular specification works for a particular problem is vital. These findings underscore the practical importance of applying MCS-based diagnostics before drawing substantive conclusions from estimated ABM parameters.
 </details>
 
 <b>Working Papers:</b><br>
