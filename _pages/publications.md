@@ -37,7 +37,8 @@ We find the benevolent social planner’s fines have significant welfare gains o
 Elinor Ostrom empirically identified eight “design principles” common to social structures of communities which successfully cultivate a common resource. One of these principles is ”graduated sanctions,” in which punishment accumulates at an accelerating rate as the degree of offense increases. We find that graduated sanctions only emerges when the agents use similarity in decision-making. We also find that, if fines generate revenue which can be costlessly redistributed, draconian (not graduated) sanctions emerge.
 </details>
 
-<a href="https://arxiv.org/abs/2406.10369"> <b>On the Preservation of Input/Output Directed Graph Informativeness under Crossover</b></a>
+
+[<b>On the Preservation of Input/Output Directed Graph Informativeness under Crossover</b>](https://chriszosh1.github.io/files/SNNCrossover.pdf)
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
 <a href="http://bingdev.binghamton.edu/sayama/"> Hiroki Sayama</a> <br>
