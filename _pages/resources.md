@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Resources/
+permalink: /resources/
 author_profile: true
 ---
 <h2>Gentle Introductions to Applied Economics</h2>
@@ -12,10 +12,10 @@ This section collects applied economics resources that I developed as quick, app
 
 
 <h2>Classical Machine Learning:</h2>
-<a href="https://catalog.sunyempire.edu/courses/econ/"><b>ML1 - Nearest Centriod and K-Nearest Neibhbors</b></a><br>
-<a href="https://catalog.sunyempire.edu/courses/econ/"><b>ML2 - Naiive Bayes</b></a><br>
-<a href="https://catalog.sunyempire.edu/courses/econ/"><b>ML3 - Decision Trees and Random Forest</b></a><br>
-<a href="https://catalog.sunyempire.edu/courses/econ/"><b>ML4 - Support Vector Machines</b></a><br>
+<a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML1 - Nearest Centriod and K-Nearest Neibhbors</b></a><br>
+<a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML2 - Naiive Bayes</b></a><br>
+<a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML3 - Decision Trees and Random Forest</b></a><br>
+<a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML4 - Support Vector Machines</b></a><br>
 
 
 <h2>Neural Networks:</h2>
