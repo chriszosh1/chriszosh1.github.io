@@ -4,10 +4,8 @@ title: ""
 permalink: /resources/
 author_profile: true
 ---
-<h2>Gentle Introductions to Applied Economics</h2>
-This section collects applied economics resources that I developed as quick, approachable introductions to key methods and ideas and how to apply them in Python. The emphasis is on intuition, examples, and practical relevance, with the goal of building strong intuitive foundations and inspiring further learning and application.
-
-
+<h2>Gentle Introductions to Applied Economics Methods</h2>
+This is a collection of resources I developed as quick, approachable introductions to common analytical methods used in applied economics. Each resource first provides important intuition on how these methods work, followed by demonstrated application examples in Python. The goal is to provide an accessible entry point for students and analysts looking to start applying these tools in their own work.
 <h3>Causal Inference Methods:</h3>
 _In development_
 
