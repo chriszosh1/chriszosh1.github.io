@@ -12,7 +12,7 @@ This section collects applied economics resources that I developed as quick, app
 _In development_
 
 <h3>Classical Machine Learning:</h3>
-<a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML1 - Nearest Centriod and K-Nearest Neighbors</b></a><br>
+<a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML1 - Nearest Centroid and K-Nearest Neighbors</b></a><br>
 <!-- <a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML2 - Naiive Bayes</b></a><br> -->
 <!-- <a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML3 - Decision Trees and Random Forest</b></a><br> -->
 
