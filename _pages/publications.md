@@ -8,7 +8,22 @@ author_profile: true
 Computational Modeling, Behavioral Game Theory, Microeconomic Theory, Complex Systems, Learning Models and Optimization
 
 <h2>Research Papers:</h2>
-<b>Job Market Paper:</b><br>
+<b>Publications:</b><br>
+[<b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>](https://chriszosh1.github.io/files/EvolvingSustainableInstitutions_Zosh_et_al.pdf)
+<br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
+<a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
+<a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
+*Accepted at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization) - a leading journal in the behavioral economics subfield*<br>
+<details style="margin-top: -22px;"><summary>Abstract:</summary>
+We develop a novel, game-theoretic computational model in which learning agents explore how much to consume from a common resource. These agents live under three different political regimes: private provision, a benevolent and powerful social planner, and competitive direct democracy over vectors of (Pigouvian) fines. Both agent consumption and voting decisions are guided by a single process: reinforcement learning with action similarity. The model produces panel data of fine vectors for each regime and setting. 
+
+We find the benevolent social planner’s fines have significant welfare gains over uncoordinated private action, and that competitive direct democracy’s fines can nearly achieve the same gains. We also find that learning changes the optimal solution: that is, the fine vector found by the	benevolent social planner is both distinct from and performs better than the socially optimal fine vector analytically derived from this setting, were it populated with rational, fully-informed agents.
+    
+Elinor Ostrom empirically identified eight “design principles” common to social structures of communities which successfully cultivate a common resource. One of these principles is ”graduated sanctions,” in which punishment accumulates at an accelerating rate as the degree of offense increases. We find that graduated sanctions only emerges when the agents use similarity in decision-making. We also find that, if fines generate revenue which can be costlessly redistributed, draconian (not graduated) sanctions emerge.
+</details>
+
+
+<b>Working Papers:</b><br>
 
 [<b>Monte-Carlo Tests for Identification and Validation of Stochastic Agent-Based Models</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_MC_Zosh_et_al.pdf)
 <br>with Nency Dhameja,
@@ -21,22 +36,6 @@ This paper highlights the indispensable role that Monte Carlo simulations (MCS) 
 
 We apply these techniques to two example applications: first, a repeated prisoner's dilemma model with learning agents and second, a model of information diffusion over a network. Our results demonstrate that, while the parameters of these models can be identified in principle, estimator performance can be highly sensitive to choice of fitness function, search method used in the estimation process, and to features of the model itself, so establishing if a particular specification works for a particular problem is vital. These findings underscore the practical importance of applying MCS-based diagnostics before drawing substantive conclusions from estimated ABM parameters.
 </details>
-
-<b>Working Papers:</b><br>
-
-[<b>Evolving Sustainable Institutions in Agent-Based Simulations with Learning</b>](https://chriszosh1.github.io/files/EvolvingSustainableInstitutions_Zosh_et_al.pdf)
-<br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
-<a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
-<a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
-*Conditionally accepted at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization) - a leading journal in the behavioral economics subfield*<br>
-<details style="margin-top: -22px;"><summary>Abstract:</summary>
-We develop a novel, game-theoretic computational model in which learning agents explore how much to consume from a common resource. These agents live under three different political regimes: private provision, a benevolent and powerful social planner, and competitive direct democracy over vectors of (Pigouvian) fines. Both agent consumption and voting decisions are guided by a single process: reinforcement learning with action similarity. The model produces panel data of fine vectors for each regime and setting. 
-
-We find the benevolent social planner’s fines have significant welfare gains over uncoordinated private action, and that competitive direct democracy’s fines can nearly achieve the same gains. We also find that learning changes the optimal solution: that is, the fine vector found by the	benevolent social planner is both distinct from and performs better than the socially optimal fine vector analytically derived from this setting, were it populated with rational, fully-informed agents.
-    
-Elinor Ostrom empirically identified eight “design principles” common to social structures of communities which successfully cultivate a common resource. One of these principles is ”graduated sanctions,” in which punishment accumulates at an accelerating rate as the degree of offense increases. We find that graduated sanctions only emerges when the agents use similarity in decision-making. We also find that, if fines generate revenue which can be costlessly redistributed, draconian (not graduated) sanctions emerge.
-</details>
-
 
 [<b>On the Preservation of Input/Output Directed Graph Informativeness under Crossover</b>](https://chriszosh1.github.io/files/SNNCrossover.pdf)
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
