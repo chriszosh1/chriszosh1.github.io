@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <h2>Research Areas:</h2>
-Computational Modeling, Behavioral Game Theory, Microeconomic Theory, Complex Systems, Learning Models and Optimization
+Computational Modeling, Behavioral Game Theory, Microeconomic Theory, Machine Learning, Learning Models and Optimization
 
 <h2>Research Papers:</h2>
 <b>Publications:</b><br>
