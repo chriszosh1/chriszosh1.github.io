@@ -9,6 +9,10 @@ This is a collection of resources I developed to be quick, approachable introduc
 <h3>Causal Inference Methods:</h3>
 _In development__
 
+<h3>Nonparametric Methods:</h3>
+<a href="https://colab.research.google.com/drive/1uNDEn1uiwf20sbvWFVu4UfR5AEyBcEWZ#scrollTo=KkXqTJT4Z3h_"><b>NP1 - Kernel Density Estimation</b></a><br>
+
+
 <h3>Classical Machine Learning:</h3>
 <a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML1 - Nearest Centroid and K-Nearest Neighbors</b></a><br>
 <a href="https://colab.research.google.com/drive/1ZnjicE8YzG186VrXD5yYeiYXRhsX-BYq#scrollTo=BrXCiWn903Hj"><b>ML2 - Naiive Bayes</b></a><br>
