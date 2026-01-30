@@ -22,9 +22,6 @@ We find the benevolent social planner’s fines have significant welfare gains o
 Elinor Ostrom empirically identified eight “design principles” common to social structures of communities which successfully cultivate a common resource. One of these principles is ”graduated sanctions,” in which punishment accumulates at an accelerating rate as the degree of offense increases. We find that graduated sanctions only emerges when the agents use similarity in decision-making. We also find that, if fines generate revenue which can be costlessly redistributed, draconian (not graduated) sanctions emerge.
 </details>
 
-
-<b>Working Papers:</b><br>
-
 [<b>On the Preservation of Input/Output Directed Graph Informativeness under Crossover</b>](https://chriszosh1.github.io/files/SNNCrossover.pdf)
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
@@ -35,6 +32,8 @@ There exists a broad class of networks that connect inputs to outputs. These net
 
 We define a crossover operation on IOD Graphs in which we find subgraphs with matching sets of forward and backward directed links to "swap." With this operation, IOD Graphs can be subject to evolutionary computation methods. We show that fully informative parents may yield a non-informative child. We also show that under certain conditions, crossover compatible, partially informative parents yield partially informative children, and very informative input parents with partially informative output parents yield very informative children. However, even under these conditions, full informativeness may not be retained. Similar results hold for actionability.
 </details>
+
+<b>Working Papers:</b><br>
 
 [<b>Monte-Carlo Tests for Identification and Validation of Stochastic Agent-Based Models</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_MC_Zosh_et_al.pdf)
 <br>with Nency Dhameja,
