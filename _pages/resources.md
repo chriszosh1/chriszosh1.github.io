@@ -15,7 +15,7 @@ _More in development_
 
 <h3>Classical Machine Learning:</h3>
 <a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML1 - Nearest Centroid and K-Nearest Neighbors</b></a><br>
-<a href="https://colab.research.google.com/drive/1ZnjicE8YzG186VrXD5yYeiYXRhsX-BYq#scrollTo=BrXCiWn903Hj"><b>ML2 - Naiive Bayes</b></a><br>
+<a href="https://colab.research.google.com/drive/1ZnjicE8YzG186VrXD5yYeiYXRhsX-BYq#scrollTo=BrXCiWn903Hj"><b>ML2 - Naive Bayes</b></a><br>
 <!-- <a href="https://colab.research.google.com/drive/1Fy1gePm6TqEDVmWUeNeNtLPneFDSmjBV?usp=sharing"><b>ML3 - Decision Trees and Random Forest</b></a><br> -->
 _More in development_
 
