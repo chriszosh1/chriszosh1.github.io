@@ -26,7 +26,7 @@ Elinor Ostrom empirically identified eight “design principles” common to soc
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://scholar.google.com/citations?user=pRy5WdkAAAAJ&hl=en"> J. David Schaffer</a>, and
 <a href="http://bingdev.binghamton.edu/sayama/"> Hiroki Sayama</a> <br>
-*Conditionally accepted at [Complexity](https://onlinelibrary.wiley.com/page/journal/8503/homepage/productinformation.html) - the leading interdisciplinary journal in complex systems research*<br>
+*Accepted at [Complexity](https://onlinelibrary.wiley.com/page/journal/8503/homepage/productinformation.html) - the leading interdisciplinary journal in complex systems research*<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 There exists a broad class of networks that connect inputs to outputs. These networks include chemical transformation networks, electrical circuits, municipal water systems, and neural networks. The goals of this paper are to provide a theoretical foundation for evolutionary crossover on this class of graphs and connect crossover to informativeness, a measure of the connectedness of inputs to outputs. Informativeness is defined as: a partially informative graph has at least one path from an input to some output, a very informative graph has a path from every input to some output, and a fully informative graph has a path from every input to every output. If a neural network with non-zero weights and any number of layers is fully informative. As links are removed (assigned zero weight), it may become very, partially, or not informative. (The complement of informativeness is actionability, which is a measure of how connected outputs are from inputs.)
 
