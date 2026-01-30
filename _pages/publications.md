@@ -13,7 +13,7 @@ Computational Modeling, Behavioral Game Theory, Microeconomic Theory, Machine Le
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
-*Accepted at [JEBO](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization) - a leading journal in the behavioral economics subfield*<br>
+*Accepted at the [Journal of Economic Behavior & Organization](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization) - a leading journal in behavioral economics*<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 We develop a novel, game-theoretic computational model in which learning agents explore how much to consume from a common resource. These agents live under three different political regimes: private provision, a benevolent and powerful social planner, and competitive direct democracy over vectors of (Pigouvian) fines. Both agent consumption and voting decisions are guided by a single process: reinforcement learning with action similarity. The model produces panel data of fine vectors for each regime and setting. 
 
