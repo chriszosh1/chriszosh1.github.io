@@ -19,5 +19,5 @@ _More in development_
 <!-- <a href="https://colab.research.google.com/drive/19DrZy_v5FlAd_8y5RGv-PC4bQIEHGqfD#scrollTo=zyIpfmqPr2QY"><b>ML3 - Decision Trees and Random Forest</b></a><br> -->
 _More in development_
 
-%<h3>Neural Networks:</h3>
-%_In development_
+<!-- <h3>Neural Networks:</h3> -->
+<!-- _In development_ -->
