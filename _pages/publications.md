@@ -13,7 +13,7 @@ Computational Modeling, Behavioral Game Theory, Microeconomic Theory, Machine Le
 <br>with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a>,
 <a href="https://www.toddguilfoos.com/"> Todd Guilfoos</a>, and
 <a href="https://www.law.northwestern.edu/faculty/profiles/peterdicola/"> Peter DiCola</a> <br>
-*Accepted at the [Journal of Economic Behavior & Organization](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization) - a leading journal in behavioral economics*<br>
+*Accepted at the [Journal of Economic Behavior & Organization (JEBO)](https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization) - a leading journal in behavioral economics*<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 We develop a novel, game-theoretic computational model in which learning agents explore how much to consume from a common resource. These agents live under three different political regimes: private provision, a benevolent and powerful social planner, and competitive direct democracy over vectors of (Pigouvian) fines. Both agent consumption and voting decisions are guided by a single process: reinforcement learning with action similarity. The model produces panel data of fine vectors for each regime and setting. 
 
@@ -37,8 +37,9 @@ We define a crossover operation on IOD Graphs in which we find subgraphs with ma
 
 [<b>Monte-Carlo Tests for Identification and Validation of Stochastic Agent-Based Models</b>](https://chriszosh1.github.io/files/Agent-BasedEconometrics_MC_Zosh_et_al.pdf)
 <br>with Nency Dhameja,
-Yixin Ren, and
+<a href="https://sites.google.com/binghamton.edu/yixinren"> Yixin Ren</a>, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
+*Under review at [Journal of Artificial Societies and Social Simulation (JASSS)](https://www.jasss.org/admin/about.html) - the leading journal in agent-based modeling and social simulation*<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 Agent-based models (ABMs) are increasingly used for formal estimation and inference, but their complexity and algorithmic nature pose persistent challenges for the formal assessment of estimator properties.
 
