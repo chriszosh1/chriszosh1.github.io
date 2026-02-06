@@ -39,7 +39,7 @@ We define a crossover operation on IOD Graphs in which we find subgraphs with ma
 <br>with Nency Dhameja,
 <a href="https://sites.google.com/binghamton.edu/yixinren"> Yixin Ren</a>, and
 <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape"> Andreas Pape</a><br>
-*Under review at [Journal of Artificial Societies and Social Simulation (JASSS)](https://www.jasss.org/admin/about.html) - the leading journal in agent-based modeling and social simulation*<br>
+*Under review at [Journal of Artificial Societies and Social Simulation (JASSS)](https://www.jasss.org/admin/about.html)<!-- - the leading journal in agent-based modeling and social simulation -->*<br>
 <details style="margin-top: -22px;"><summary>Abstract:</summary>
 Agent-based models (ABMs) are increasingly used for formal estimation and inference, but their complexity and algorithmic nature pose persistent challenges for the formal assessment of estimator properties.
 
