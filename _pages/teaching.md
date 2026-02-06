@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 <h2>Teaching Areas:</h2>
-Microeconomic Theory (all levels), Macroeconomic Theory (undergraduate), Game Theory and Behavior (all levels), and interest courses in Computational Modeling and Machine Learning Methods in Python.
+Microeconomic Theory (all levels), Macroeconomic Theory (undergraduate), Game Theory and Behavior (all levels),  and an interest course in Computational Modeling and Methods in Python (all levels).
 
 <h2>Teaching Experience:</h2>
 <b>As Instructor:</b><br>
