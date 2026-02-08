@@ -9,7 +9,8 @@ Microeconomic Theory (all levels), Macroeconomic Theory (undergraduate), Game Th
 
 <h2>Teaching Experience:</h2>
 <b>As Instructor:</b><br>
-<a href="https://catalog.sunyempire.edu/courses/econ/"><b>Intermediate Macroeconomics</b></a> [U], F2025 at Empire State University<br>
+<a href="https://catalog.sunyempire.edu/courses/econ/"><b>Microeconomics</b></a> [U], S2025 at Empire State University<br>
+<a href="https://catalog.sunyempire.edu/courses/econ/"><b>Macroeconomics</b></a> [U], F2025 at Empire State University<br>
 <a href="https://catalog.sunyempire.edu/courses/econ/"><b>Principles of Economics</b></a> [U], F2025 at Empire State University<br>
 <a href="https://www.coursicle.com/ithaca/courses/ECON/12200/"><b>Intro to Microeconomics</b></a> [U], F2022(x2) at Ithaca College, (syllabus [here](https://chriszosh1.github.io/files/IntroMicroSyllabus_Fall2022.pdf))
 
