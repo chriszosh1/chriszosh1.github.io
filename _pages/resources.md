@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 <h2>Gentle Introductions to Applied Economics Methods</h2>
-This is a collection of resources I developed to be quick, approachable introductions to common analytical methods used in applied economics. Each resource first provides important intuition on how these methods work, followed by an example application demonstrating how to apply the method in Python. The goal is to provide an accessible entry point for students and analysts looking to start applying these tools in their own work.
+This is a collection of resources I developed to be quick, approachable introductions to common analytical methods used in applied economics. Each resource first provides important intuition on how these methods work followed by an example application demonstrating how to apply the method in Python. The goal is to provide a brief and accessible entry point for students and analysts looking to start applying these tools in their own work.
 <h3>Causal Inference Methods:</h3>
 <a href="https://colab.research.google.com/drive/1Vp5pRvIc5SImnrVDJDMcA8sHPnGlh-co#scrollTo=9KxbQzRsOwM0"><b>CI1 - Regression Discontinuity designs</b></a><br>
 _More in development_
