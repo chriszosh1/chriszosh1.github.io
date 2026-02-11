@@ -10,7 +10,7 @@ This is a collection of resources I developed to be quick, approachable introduc
 <h3>Causal Inference Methods:</h3>
 <a href="https://colab.research.google.com/drive/1Vp5pRvIc5SImnrVDJDMcA8sHPnGlh-co#scrollTo=9KxbQzRsOwM0"><b>CI1 - Regression Discontinuity designs</b></a><br>
 <!-- <a href=""><b>CI2 - Instrumental Variables</b></a><br> -->
-<!-- <a href=""><b>CI3 - Difference in Difference</b></a><br> -->r
+<!-- <a href=""><b>CI3 - Difference in Difference</b></a><br> -->
 _More in development_
 
 <h3>Nonparametric Methods:</h3>
