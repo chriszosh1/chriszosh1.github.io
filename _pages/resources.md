@@ -9,24 +9,37 @@ This is a collection of resources I developed to be quick, approachable introduc
 
 <h3>Causal Inference Methods:</h3>
 <a href="https://colab.research.google.com/drive/1Vp5pRvIc5SImnrVDJDMcA8sHPnGlh-co#scrollTo=9KxbQzRsOwM0"><b>CI1 - Regression Discontinuity designs</b></a><br>
-<!-- <a href=""><b>CI2 - Instrumental Variables</b></a><br> -->
 <!-- <a href=""><b>CI3 - Difference in Difference</b></a><br> -->
+<!-- <a href=""><b>CI2 - Instrumental Variables</b></a><br> -->
 _More in development_
+
+<h3>Structural Estimation:</h3>
+<!-- <a href=""><b>SE1 - Measuring Inefficiency with the Stochastic Frontier Model</b></a><br> -->
+<!-- <a href=""><b>SE1 - Measuring Spillover Effects with a Spatial Panel</b></a><br> -->
+<!-- <a href=""><b>SE2 - Estimating Choice Behavior with Discrete Choice Models</b></a><br> -->
+_More in development_
+
+<h3>Non-standard Errors</h3>
+<!-- <a href=""><b>NSE1 - Robust Standard Errors</b></a><br> -->
+<!-- <a href=""><b>NSE2 - Bootstrapping</b></a><br> -->
+<!-- <a href=""><b>NSE3 - Clustering Standard Errors</b></a><br> -->
 
 <h3>Nonparametric Methods:</h3>
 <a href="https://colab.research.google.com/drive/1uNDEn1uiwf20sbvWFVu4UfR5AEyBcEWZ#scrollTo=KkXqTJT4Z3h_"><b>NP1 - Kernel Density Estimation</b></a><br>
+<!-- <a href=""><b>NP2 - Bootstrapping</b></a><br> -->
+<!-- <a href=""><b>NP3 - Probit, Tobit, and Logit</b></a><br> -->
 _More in development_
 
 <!-- <h3>Computational Optimization Techniques:</h3> -->
-<!-- <a href=""><b>COT1 - Contraction Maps</b></a><br> -->
-<!-- <a href=""><b>COT1 - Belman and Value functions</b></a><br> -->
 <!-- <a href=""><b>COT2 - Gridsearch</b></a><br> -->
 <!-- <a href=""><b>COT3 - Hill Climbing and Variants</b></a><br> -->
 <!-- <a href=""><b>COT4 - Genetic Algorithms</b></a><br> -->
+<!-- <a href=""><b>COT1 - Contraction Maps</b></a><br> -->
+<!-- <a href=""><b>COT1 - Belman and Value functions</b></a><br> -->
 <!--_More in development_ -->
 
 <!-- <h3>Learning Models:</h3> -->
-<!-- <a href=""><b>LM1 - Reinforcement Learning</b></a><br> -->
+<!-- <a href=""><b>LM1 - Simple Reinforcement Learning</b></a><br> -->
 <!-- <a href=""><b>LM2 - Case-based Decision Theory</b></a><br> -->
 <!-- <a href=""><b>LM3 - Q-Learning</b></a><br> -->
 <!-- <a href=""><b>LM4 - Experience Weighted Attraction</b></a><br> -->
