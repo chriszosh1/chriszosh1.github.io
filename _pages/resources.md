@@ -13,13 +13,13 @@ This is a collection of resources I developed to be quick, approachable introduc
 <!-- <a href=""><b>CI2 - Instrumental Variables</b></a><br> -->
 _More in development_
 
-<h3>Structural Estimation:</h3>
+<!-- <h3>Structural Estimation:</h3> -->
 <!-- <a href=""><b>SE1 - Measuring Inefficiency with the Stochastic Frontier Model</b></a><br> -->
 <!-- <a href=""><b>SE1 - Measuring Spillover Effects with a Spatial Panel</b></a><br> -->
 <!-- <a href=""><b>SE2 - Estimating Choice Behavior with Discrete Choice Models</b></a><br> -->
-_More in development_
+<!-- _More in development_ -->
 
-<h3>Non-standard Errors</h3>
+<!-- <h3>Non-standard Errors</h3> -->
 <!-- <a href=""><b>NSE1 - Robust Standard Errors</b></a><br> -->
 <!-- <a href=""><b>NSE2 - Bootstrapping</b></a><br> -->
 <!-- <a href=""><b>NSE3 - Clustering Standard Errors</b></a><br> -->
