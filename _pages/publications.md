@@ -64,4 +64,4 @@ We extend the classic Schelling segregation model by replacing its traditional, 
 <a href="https://www.jasss.org/admin/about.html">Journal of Artificial Societies and Social Simulation (JASSS)</a><br>
 
 <b>Guest Editor:</b><br>
-Special Issue on <a href="https://www.mdpi.com/journal/games/special_issues/Game_LLM">Game Theory and Large Language Models</a>, <a href="https://www.mdpi.com/journal/games/about"><i>Games</i></a>, with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape">Andreas Pape</a><br>
+Special Issue of <a href="https://www.mdpi.com/journal/games/about"><i>Games</i></a> on <a href="https://www.mdpi.com/journal/games/special_issues/Game_LLM">Game Theory and Large Language Models</a> with <a href="https://www.binghamton.edu/economics/faculty/profile.html?id=apape">Andreas Pape</a><br>
